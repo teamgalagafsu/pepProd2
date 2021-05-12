@@ -1,6 +1,6 @@
 // const URL = 'localhost:3000';
-// const URL = 'http://localhost:3000';
-const URL = "https://peppermintgalaga.herokuapp.com";
+const URL = 'http://localhost:3000';
+// const URL = "https://peppermintgalaga.herokuapp.com";
 
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
